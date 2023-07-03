@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REF_LIST" version="">
+  <row id="0C479BDCFC12439B9C3B09DDC2DAB5D7" trl="N">
+    <value column="Name" isTrl="N" original="S4">S4</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="0FF32E9EB22745208A6DBFE4DBE90510" trl="N">
+    <value column="Name" isTrl="N" original="S1">S1</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="168DCC8C349D430B983EFC02F245CB49" trl="N">
+    <value column="Name" isTrl="N" original="S7">S7</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="1C171C4C331C4E9BA28EC64CB43270AB" trl="N">
+    <value column="Name" isTrl="N" original="S6">S6</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="1C42DF755E204CFB846E909CA3A2C90A" trl="N">
+    <value column="Name" isTrl="N" original="SP">SP</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="2148091AA115446E809AC227496F5769" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="31E6CA97E5C24D6CB125FD0A88E4EFF6" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3221F7142CA14F9E8D943BF5E31E9FC0" trl="N">
+    <value column="Name" isTrl="N" original="S9">S9</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="36350327EF2B438AB32E3F0F654607D5" trl="N">
+    <value column="Name" isTrl="N" original="S1">S1</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3A26EEE08C094279843EEBE1EBDE8F68" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3EB13EF6E5D849338137733AA9C22549" trl="N">
+    <value column="Name" isTrl="N" original="S7">S7</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3EBA3520043340BCAB062D2480B65876" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="3FC797F8227948038B1FE670608E9102" trl="N">
+    <value column="Name" isTrl="N" original="SP">SP</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="422E88C109B34471A357B0D30E3B057E" trl="N">
+    <value column="Name" isTrl="N" original="S5">S5</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="42304EB7ED9042D890B02978A1B26E85" trl="N">
+    <value column="Name" isTrl="N" original="F">F</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="460621A9844B4B61B4E8908BE00FB2A1" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4BA637670B1848909BAD56FC8590B597" trl="N">
+    <value column="Name" isTrl="N" original="S2">S2</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="4DF63684117C406D87DA0A2C15CFA39B" trl="N">
+    <value column="Name" isTrl="N" original="S6">S6</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="568C935581DA42EFB0901E16FF5A5540" trl="N">
+    <value column="Name" isTrl="N" original="V">V</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="59E8808B83EC494D899CF491C4AC77E2" trl="N">
+    <value column="Name" isTrl="N" original="S5">S5</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="5A6DF3F2684F44B2AEE2615531EE2BD9" trl="N">
+    <value column="Name" isTrl="N" original="R">R</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="68778621FB7544359FC99030E60C54B5" trl="N">
+    <value column="Name" isTrl="N" original="SP">SP</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="6B8AC61FD54448C3B99037B93D792420" trl="N">
+    <value column="Name" isTrl="N" original="S9">S9</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="6BCFBD0B49224A41B77A1D2CF97DE013" trl="N">
+    <value column="Name" isTrl="N" original="S10">S10</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="6D73D007E8F34D039D21D11D6A5A3435" trl="N">
+    <value column="Name" isTrl="N" original="Continue">Continue</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="7949187B7A454967BB34A8ED9C70E0D1" trl="N">
+    <value column="Name" isTrl="N" original="S3">S3</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="7FDB6CB11C264B189F9375DD74BED831" trl="N">
+    <value column="Name" isTrl="N" original="S8">S8</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="856FCEA35C39436EB277027AEF51C1A8" trl="N">
+    <value column="Name" isTrl="N" original="Continue">Continue</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="90D6F5B590F245A98DEDF5EDCA3FD379" trl="N">
+    <value column="Name" isTrl="N" original="S10">S10</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="A77DB82D5E5F444B9406B2967107C964" trl="N">
+    <value column="Name" isTrl="N" original="S6">S6</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="A892873D11244E13968D777C39FA864E" trl="N">
+    <value column="Name" isTrl="N" original="S8">S8</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="A9858694762E444FAFD84BCFE987CDEE" trl="N">
+    <value column="Name" isTrl="N" original="S2">S2</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B2B0871AB38F47E1B94E18CE0A0C36FE" trl="N">
+    <value column="Name" isTrl="N" original="S8">S8</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="B6EA240BC25E463880C973AB2684346F" trl="N">
+    <value column="Name" isTrl="N" original="S10">S10</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="BD06E5C511444B6CBCF0A1E306732A21" trl="N">
+    <value column="Name" isTrl="N" original="S4">S4</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C513384D70E249D499548FC32DEF2B7C" trl="N">
+    <value column="Name" isTrl="N" original="Continue">Continue</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="C6E0AF7387B7418AB4D2B8577F7AF739" trl="N">
+    <value column="Name" isTrl="N" original="&lt;">&lt;</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D603B3D104C4469EBD7CAE51ED02B720" trl="N">
+    <value column="Name" isTrl="N" original="S1">S1</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D8105DC61C374A1898B78D7B58DDD2AE" trl="N">
+    <value column="Name" isTrl="N" original="S3">S3</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="DF44E34A35A543BFAAE53B96679ED92D" trl="N">
+    <value column="Name" isTrl="N" original="S9">S9</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="DF880B9A541A4AF2B80BE8EE708728CD" trl="N">
+    <value column="Name" isTrl="N" original="S3">S3</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="E0593F54F0474809841DA895ADDCAB88" trl="N">
+    <value column="Name" isTrl="N" original="&gt;=">&gt;=</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="EAFE8CB2D1014DDA9E4B1719F150D086" trl="N">
+    <value column="Name" isTrl="N" original="S2">S2</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="EBB057FA41DA4ABC8BABEB6143FE01FE" trl="N">
+    <value column="Name" isTrl="N" original="S5">S5</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="F6C4D2FE5B874FB59F47F9431F4DB97A" trl="N">
+    <value column="Name" isTrl="N" original="S7">S7</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="FCCD631EAEC446CA8D3C16A7AFA0DFC0" trl="N">
+    <value column="Name" isTrl="N" original="S4">S4</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>
