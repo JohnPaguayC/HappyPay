@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MENU" version="">
-  <row id="0F1E20637CE446D5AFF314F6AF0A3C97" trl="Y">
-    <value column="Name" isTrl="Y" original="Value Expired Actual">Valor Vencido Actual EQFX</value>
-    <value column="Description" isTrl="N" original="">Valor Vencido Actual EQFX</value>
+  <row id="0673A80955E340C59915B67CB8BB3D27" trl="Y">
+    <value column="Name" isTrl="Y" original="Pararellel Credits">Creditos Paralelos</value>
+    <value column="Description" isTrl="Y" original="Pararellel Credits">Creditos Paralelos</value>
   </row>
-  <row id="49394DB1CF83496BA0702EDA57EF202B" trl="N">
+  <row id="3C80566B6ECD44F887FC7AE5BC8DC058" trl="Y">
+    <value column="Name" isTrl="Y" original="Value Expired Actual">Valor Vencido Actual EQFX</value>
+    <value column="Description" isTrl="Y" original="Value Expired Actual">Valor Vencido Actual EQFX</value>
+  </row>
+  <row id="42E161FBEF094884AF7EF76F63CEB6ED" trl="Y">
+    <value column="Name" isTrl="Y" original="Credit Penalized">Matriz Credito Penalizado</value>
+    <value column="Description" isTrl="Y" original="Credit PenalizedCredit Penalized">Matriz Credito Penalizado</value>
+  </row>
+  <row id="43D19C97321549A997CE9E9E6258D632" trl="Y">
+    <value column="Name" isTrl="Y" original="Value Lawsuit">Valor Demanda Judicial EQFX</value>
+    <value column="Description" isTrl="Y" original="Value Lawsuit">Valor Demanda Judicial EQFX</value>
+  </row>
+  <row id="700CCC9577744347A7DF6E15416EF69E" trl="Y">
+    <value column="Name" isTrl="Y" original="Value Portfolio Penalized">Valor Cartera Castigada EQFX</value>
+    <value column="Description" isTrl="Y" original="Value Portfolio Penalized">Valor Cartera Castigada EQFX</value>
+  </row>
+  <row id="9D9FC2400A7F49BBA89CAF1C6D705AD5" trl="Y">
     <value column="Name" isTrl="Y" original="Current Credit">Matriz Credito Vigente</value>
     <value column="Description" isTrl="Y" original="Current Credit">Matriz Credito Vigente</value>
   </row>
-  <row id="5AA1DAEB97C148C78E3A43230603DC27" trl="N">
-    <value column="Name" isTrl="Y" original="Penalized Credit">Matriz Credito Castigado</value>
-    <value column="Description" isTrl="N" original="">Matriz Credito Castigado</value>
-  </row>
-  <row id="7D6DE15E410D4BA59BB12FB87F5E3210" trl="Y">
-    <value column="Name" isTrl="Y" original="Current Expired Credit">Matriz Credito Vigente Vencido</value>
-    <value column="Description" isTrl="N" original="">Matriz Credito Vigente Vencido</value>
-  </row>
-  <row id="C372BD36FE404B4599C8C0BC7859F0D7" trl="Y">
-    <value column="Name" isTrl="Y" original="Pararellel Credits">Creditos Paralelos</value>
-    <value column="Description" isTrl="N" original="">Creditos Paralelos</value>
-  </row>
-  <row id="CDCF4E045A23406D9C39C4B1FF67A3F4" trl="Y">
-    <value column="Name" isTrl="Y" original="Value Portfolio Penalized">Valor Cartera Castigada EQFX</value>
-    <value column="Description" isTrl="N" original="">Valor Cartera Castigada EQFX</value>
-  </row>
-  <row id="F0E9E7B101294E898EFD94EDEC808CAB" trl="Y">
-    <value column="Name" isTrl="Y" original="Value Lawsuit">Valor Demanda Judicial EQFX</value>
-    <value column="Description" isTrl="N" original="">Valor Demanda Judicial EQFX</value>
+  <row id="AAB03CDA138B46B9A841A2DF6A20AA08" trl="Y">
+    <value column="Name" isTrl="Y" original="Current Expired Credit">Matriz Credito Vigente Expirado</value>
+    <value column="Description" isTrl="Y" original="Current Expired Credit">Matriz Credito Vigente Expirado</value>
   </row>
 </compiereTrl>

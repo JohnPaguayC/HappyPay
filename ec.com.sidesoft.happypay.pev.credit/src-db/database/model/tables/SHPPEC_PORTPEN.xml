@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
-  <database name="TABLE SHPPEC_CREDPEN">
-    <table name="SHPPEC_CREDPEN" primaryKey="SHPPEC_CREDPEN_KEY">
-      <column name="SHPPEC_CREDPEN_ID" primaryKey="true" required="true" type="VARCHAR" size="32" autoIncrement="false">
+  <database name="TABLE SHPPEC_PORTPEN">
+    <table name="SHPPEC_PORTPEN" primaryKey="SHPPEC_PORTPEN_KEY">
+      <column name="SHPPEC_PORTPEN_ID" primaryKey="true" required="true" type="VARCHAR" size="32" autoIncrement="false">
         <default/>
         <onCreateDefault/>
       </column>
@@ -33,11 +33,19 @@
         <default/>
         <onCreateDefault/>
       </column>
-      <column name="CRED_PENAL" primaryKey="false" required="true" type="DECIMAL" autoIncrement="false">
+      <column name="AGEN_CODE" primaryKey="false" required="true" type="VARCHAR" size="32" autoIncrement="false">
         <default/>
         <onCreateDefault/>
       </column>
-      <column name="OUTPUT" primaryKey="false" required="true" type="VARCHAR" size="60" autoIncrement="false">
+      <column name="VALUE_FROM" primaryKey="false" required="true" type="DECIMAL" autoIncrement="false">
+        <default/>
+        <onCreateDefault/>
+      </column>
+      <column name="VALUE_UNTIL" primaryKey="false" required="true" type="DECIMAL" autoIncrement="false">
+        <default/>
+        <onCreateDefault/>
+      </column>
+      <column name="SEGMENT" primaryKey="false" required="true" type="VARCHAR" size="60" autoIncrement="false">
         <default/>
         <onCreateDefault/>
       </column>
@@ -45,12 +53,12 @@
         <default/>
         <onCreateDefault/>
       </column>
-      <foreign-key foreignTable="AD_CLIENT" name="SHPPEC_CREDPEN_CLIENT">
+      <foreign-key foreignTable="AD_CLIENT" name="SHPPEC_PORTPEN_CLIENT">
         <reference local="AD_CLIENT_ID" foreign="AD_CLIENT_ID"/>
       </foreign-key>
-      <foreign-key foreignTable="AD_ORG" name="SHPPEC_CREDPEN_ORG">
+      <foreign-key foreignTable="AD_ORG" name="SHPPEC_PORTPEN_ORG">
         <reference local="AD_ORG_ID" foreign="AD_ORG_ID"/>
       </foreign-key>
-      <check name="SHPPEC_CREDPEN_ISACTIVE"><![CDATA[ISACTIVE IN ('Y', 'N')]]></check>
+      <check name="SHPPEC_PORTPEN_ISACTIVE"><![CDATA[ISACTIVE IN ('Y', 'N')]]></check>
     </table>
   </database>

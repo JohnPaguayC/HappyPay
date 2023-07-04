@@ -1,43 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <compiereTrl baseLanguage="en_US" language="es_ES" table="AD_REFERENCE" version="">
-  <row id="2172509D05A24D28A41EE46FEA1ED63B" trl="N">
-    <value column="Name" isTrl="N" original="Penalized Credit Status">Penalized Credit Status</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="3FF614A1526B4F07997C82B0F96D15E0" trl="N">
-    <value column="Name" isTrl="N" original="Value Expired Actual Segment">Value Expired Actual Segment</value>
-    <value column="Description" isTrl="N" original="Value Expired Actual Segment">Value Expired Actual Segment</value>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="65ECF18FF69B4E75A3E021CAE279D121" trl="N">
-    <value column="Name" isTrl="N" original="Current Expired Credit Status">Current Expired Credit Status</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="9067CEE9401E4D12B9A7ACD9158917E9" trl="N">
-    <value column="Name" isTrl="N" original="Current Credit Status">Current Credit Status</value>
-    <value column="Description" isTrl="N" original=""/>
-    <value column="Help" isTrl="N" original=""/>
-  </row>
-  <row id="DAEBB9B676F64455B4D0D49A07E9320C" trl="N">
+  <row id="583F62DD4D3D4F809ECF54788D36C054" trl="N">
     <value column="Name" isTrl="N" original="Pararellel Credits Comparison">Pararellel Credits Comparison</value>
     <value column="Description" isTrl="N" original="Pararellel Credits Comparison">Pararellel Credits Comparison</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="E90AD07590034D05BB6BC21B6A9A834B" trl="N">
-    <value column="Name" isTrl="N" original="Value Lawsuit Status">Value Lawsuit Status</value>
-    <value column="Description" isTrl="N" original="Value Lawsuit Status">Value Lawsuit Status</value>
+  <row id="6DB0C044C7A646B798E36F90DAF06046" trl="N">
+    <value column="Name" isTrl="N" original="Value Expired Actual Segment">Value Expired Actual Segment</value>
+    <value column="Description" isTrl="N" original="Value Expired Actual Segment">Value Expired Actual Segment</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="EF821D2B9AF14FD6A608187BB818CB3B" trl="N">
-    <value column="Name" isTrl="N" original="Pararellel Credits Response">Pararellel Credits Response</value>
-    <value column="Description" isTrl="N" original="Pararellel Credits Response">Pararellel Credits Response</value>
+  <row id="9CB206BF4DBD4BD5ABB1AF8760F037F6" trl="N">
+    <value column="Name" isTrl="N" original="Value Portfolio Penalized Segment">Value Portfolio Penalized Segment</value>
+    <value column="Description" isTrl="N" original="Value Portfolio Penalized Segment">Value Portfolio Penalized Segment</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
-  <row id="F1B67A202B7F498383D36F70C0FB30EB" trl="N">
-    <value column="Name" isTrl="N" original="Value Portfolio Penalized Status">Value Portfolio Penalized Status</value>
-    <value column="Description" isTrl="N" original="Value Portfolio Penalized Status">Value Portfolio Penalized Status</value>
+  <row id="BB09E34E88654CD191F4F71DB61F65AE" trl="N">
+    <value column="Name" isTrl="N" original="Current Credit Result">Current Credit Result</value>
+    <value column="Description" isTrl="N" original="Current Credit Result">Current Credit Result</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="CAE69BFD16704244B0943E88B213F106" trl="N">
+    <value column="Name" isTrl="N" original="Current Expired Credit Result">Current Expired Credit Result</value>
+    <value column="Description" isTrl="N" original="Current Expired Credit Result">Current Expired Credit Result</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="F1E28E6629354FB6827E32491AFA79A2" trl="N">
+    <value column="Name" isTrl="N" original="Value Lawsuit Segment">Value Lawsuit Segment</value>
+    <value column="Description" isTrl="N" original="Value Lawsuit Segment">Value Lawsuit Segment</value>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="FF6AD604387149B9A063DF47C2BA04F4" trl="N">
+    <value column="Name" isTrl="N" original="Credit Penalized Output">Credit Penalized Output</value>
+    <value column="Description" isTrl="N" original="Credit Penalized Output">Credit Penalized Output</value>
     <value column="Help" isTrl="N" original=""/>
   </row>
 </compiereTrl>
